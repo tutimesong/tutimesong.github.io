@@ -1,3 +1,11 @@
+layout: post
+title: Github.io博客的搭建
+date: 2020-04-13
+Author: tutimesong
+categories: 
+tags: [sample, markdown]
+comments: true
+
 # Github.io博客的搭建
 
 ##### 1. github的repositories的新建

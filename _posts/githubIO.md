@@ -2,15 +2,15 @@
 
 ##### 1. github的repositories的新建
 
-![image-20200413163317701](C:\Users\timesong\AppData\Roaming\Typora\typora-user-images\image-20200413163317701.png)
+![image-20200413163317701](https://github.com/tutimesong/tutimesong.github.io/blob/master/images/image-20200413163317701.png)
 
 ##### 2. 对这个repositories进行Settings进行配置，主要是进行主题选择
 
-![image-20200413163509684](C:\Users\timesong\AppData\Roaming\Typora\typora-user-images\image-20200413163509684.png)
+![image-20200413163509684](https://github.com/tutimesong/tutimesong.github.io/blob/master/images/image-20200413163509684.png)
 
 ##### 3.在http://jekyllthemes.org/下载一个主题
 
-![image-20200413163732330](C:\Users\timesong\AppData\Roaming\Typora\typora-user-images\image-20200413163732330.png)
+![image-20200413163732330](https://github.com/tutimesong/tutimesong.github.io/blob/master/images/image-20200413163732330.png)
 
 ##### 4.将github中的repositories进行clone到本地某个文件夹，然后将上述下载的主题放入到该文件夹中，并替换config.yml和README文件夹
 
@@ -18,7 +18,7 @@
 
 2. 将下载的主题放入到该文件夹下，并对新的对config.yml进行替换，除了一些基本信息外，主要修改如下
 
-   ![image-20200413165101846](C:\Users\timesong\AppData\Roaming\Typora\typora-user-images\image-20200413165101846.png)
+   ![image-20200413165101846](https://github.com/tutimesong/tutimesong.github.io/blob/master/images/image-20200413165101846.png)
 
    | 名称         | 存放文件夹 |
    | ------------ | ---------- |
@@ -27,7 +27,7 @@
    | 标签         | tags       |
    | 首页存放地址 | _posts     |
 
-3.将本地仓库上传到远程仓库
+3.将本地仓库上传到远程仓库，如何参考博客https://blog.csdn.net/u014135752/article/details/79951802
 
 | **git add .     （注：别忘记后面的.，此操作是把Test文件夹下面的文件都添加进来）** |
 | ------------------------------------------------------------ |

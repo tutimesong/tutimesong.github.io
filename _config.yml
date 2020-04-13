@@ -37,8 +37,6 @@ paginate: 8
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  email: fromendworld@outlook.com 
-  github: FromEndWorld/loffer #https://github.com/<>
 
 # 站点页脚的文字
 footer-text: Copyright (c) 2020 来自中世界

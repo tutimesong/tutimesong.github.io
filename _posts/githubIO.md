@@ -48,3 +48,13 @@ comments: true
 
 **git pull --rebase origin master**
 
+
+
+##### 5. 如何书写markdown
+
+  1.通过https://typora.io/#windows 下载typora进行书写
+
+  2.在每个md文件中，需要书写这个文档的基本信息，该段格式为段落--YAML Front Matter
+
+![image-20200413174551857](https://github.com/tutimesong/tutimesong.github.io/blob/master/images/image-20200413174551857.png)
+
